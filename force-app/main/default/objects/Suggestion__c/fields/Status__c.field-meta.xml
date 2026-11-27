@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <fullName>Status__c</fullName>
+    <type>Picklist</type>
+    <inlineHelpText>Choose the status of the suggestion</inlineHelpText>
+    <required>true</required>
+    <description>The catgory status</description>
+    <label>Status</label>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>New</fullName>
+                <label>New</label>
+                <default>true</default>
+            </value>
+            <value>
+                <fullName>Under Consideration</fullName>
+                <label>Under Consideration</label>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>In Progress</fullName>
+                <label>In Progress</label>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Implemented</fullName>
+                <label>Implemented</label>
+                <default>false</default>
+            </value>
+            <sorted>true</sorted>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

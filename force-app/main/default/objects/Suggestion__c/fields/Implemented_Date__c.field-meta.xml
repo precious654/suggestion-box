@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <fullName>Implemented_Date__c</fullName>
+    <type>Date</type>
+    <inlineHelpText/>
+    <required>false</required>
+    <description>The date of implementation</description>
+    <label>Implemented Date</label>
+</CustomField>

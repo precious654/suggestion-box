@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject>
+    <pluralLabel>Suggestions</pluralLabel>
+    <fullName>Suggestion__c</fullName>
+    <description>This object holds suggestions from everyone in the team</description>
+    <nameField>
+        <label>Suggestion Name</label>
+        <type>Text</type>
+    </nameField>
+    <enableBulkApi>true</enableBulkApi>
+    <enableSharing>true</enableSharing>
+    <enableStreamingApi>true</enableStreamingApi>
+    <enableHistory>false</enableHistory>
+    <enableActivities>false</enableActivities>
+    <enableSearch>true</enableSearch>
+    <enableFeeds>false</enableFeeds>
+    <enableReports>true</enableReports>
+    <sharingModel>Read</sharingModel>
+    <label>Suggestion</label>
+    <deploymentStatus>Deployed</deploymentStatus>
+</CustomObject>

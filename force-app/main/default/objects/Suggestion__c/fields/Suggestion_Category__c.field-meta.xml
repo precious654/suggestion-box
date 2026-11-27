@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <fullName>Suggestion_Category__c</fullName>
+    <type>Picklist</type>
+    <label>Suggestion Category</label>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Customer Service</fullName>
+                <label>Customer Service</label>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Employee Services</fullName>
+                <label>Employee Services</label>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Facilities/IT</fullName>
+                <label>Facilities/IT</label>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Kitchen Snacks</fullName>
+                <label>Kitchen Snacks</label>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <label>Other</label>
+                <default>false</default>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

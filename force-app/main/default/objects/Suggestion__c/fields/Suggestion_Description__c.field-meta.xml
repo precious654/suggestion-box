@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <fullName>Suggestion_Description__c</fullName>
+    <type>LongTextArea</type>
+    <visibleLines>10</visibleLines>
+    <length>32678</length>
+    <inlineHelpText>Please try to describe your suggestions in as much detail as possible</inlineHelpText>
+    <description>The suggestion description in great detail</description>
+    <label>Suggestion Description</label>
+</CustomField>
